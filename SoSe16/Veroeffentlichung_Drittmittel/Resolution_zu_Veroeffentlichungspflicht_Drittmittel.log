@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.20)  6 MAY 2016 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.20)  7 MAY 2016 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -661,20 +661,20 @@ tmittel.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
- 8576 strings out of 493085
- 136199 string characters out of 6136917
- 319609 words of memory out of 5000000
+ 8574 strings out of 493085
+ 136179 string characters out of 6136917
+ 319635 words of memory out of 5000000
  11957 multiletter control sequences out of 15000+600000
- 13052 words of font info for 49 fonts, out of 8000000 for 9000
+ 12989 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,47p,1003b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,47p,1082b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/f
 onts/type1/public/cm-super/sfti1095.pfb>
 Output written on Resolution_zu_Veroeffentlichungspflicht_Drittmittel.pdf (1 pa
-ge, 104097 bytes).
+ge, 104178 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
